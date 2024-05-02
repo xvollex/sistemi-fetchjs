@@ -1,0 +1,35 @@
+*
+{
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+body
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+form
+{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    pad: 4rem;
+    width:20rem;
+    align-items: center;
+    margin-left: 30rem;
+    margin-bottom: 8rem;
+}
+
+form h2
+{
+    text-align: center;
+}
+
+form input
+{
+    padding: 2px 2px;
+}
+
